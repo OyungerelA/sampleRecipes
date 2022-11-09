@@ -1,14 +1,12 @@
-{
-  "data": [
-    {
+[
+  {
     "name": "Cheesy Chicken Bake",
     "date": "2022-10-27",
     "image": "https://picsum.photos/200/200"
-    },
-    {
-    "name": "Creamy Lasagna",
+  },
+  {
+    "name": "Clam Chowder",
     "date": "2022-10-26",
-    "image": "https://picsum.photos/100/100"
-    }
-  ]
-}
+    "image": "https://picsum.photos/200/200"
+  }
+]
